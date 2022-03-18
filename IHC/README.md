@@ -81,13 +81,13 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
     
 ### 8 - Estética e design minimalista
 
-#### Acerto:
+> #### Acerto:
 
-<img heigh="600px" width="600px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-H.png">
+> <img heigh="600px" width="600px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-H.png">
 
-#### Erro:
+> #### Erro:
 
-<img heigh="600px" width="600px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-H2.png">
+> <img heigh="600px" width="600px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-H2.png">
     
 <span id = "hn9">  
     
