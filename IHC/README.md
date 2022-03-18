@@ -39,43 +39,57 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
     
 ### 1 - Visibilidade do status do sistema 
 
-<img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-A.gif">
+> #### Acerto:
+
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-A.gif">
                                                                                                                                
 <span id = "hn2">
     
 ### 2 - Correspondência entre o sistema e o mundo real
     
-<img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-B.jpg">
+> #### Acerto:    
+    
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-B.jpg">
     
 <span id = "hn3">
     
 ### 3 - Controle do usuário e liberdade 
 
-<img heigh="600px" width="600px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-C.jpg">
+> #### Acerto:    
+    
+> <img heigh="600px" width="600px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-C.jpg">
     
 <span id = "hn4">
     
 ### 4 - Consistência e uso de padrões
+
+> #### Acerto:    
     
-<img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-D.png">    
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-D.png">    
     
 <span id = "hn5">
     
 ### 5 - Prevenção de erros
+
+> #### Acerto:    
     
-<img heigh="800px" width="800px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-E.png">
+> <img heigh="800px" width="800px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-E.png">
     
 <span id = "hn6">
     
 ### 6 - Reconhecimento ao invés de memorização
+
+> #### Acerto:    
     
-<img heigh="800px" width="800px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-F.png">
+> <img heigh="800px" width="800px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-F.png">
     
 <span id = "hn7">
     
 ### 7 - Flexibilidade e eficiênia de uso
+
+> #### Acerto:    
     
-<img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-G.png">
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-G.png">
 
 <span id = "hn8">   
     
@@ -92,14 +106,18 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
 <span id = "hn9">  
     
 ### 9 - Ajude os usuários a reconhecer, diagnosticar e recuperar erros
+
+> #### Acerto:    
     
-<img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-I.png">
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-I.png">
 
 <span id = "hn10">   
     
 ### 10 - Ajuda e documentação
+
+> #### Acerto:    
     
-<img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-J.jpg">
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-J.jpg">
     
 → [Voltar ao topo](#topo)
 
