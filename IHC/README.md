@@ -133,8 +133,30 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
 
 <span id = "slides">
 
-## Slides
+## Slides 32 - 54
 
 ### 32 - O que você vê não é o que o seu cérebro percebe
+### 33 - Visão periférica é mais usada do que a visão central para obter a essência do que você vê
+### 34 - Pessoas identificam objetos através do reconhecimento de padrões
+### 35 - Há uma parte especial do cérebro apenas pra reconhecer faces
+### 36 - Há uma parte especial do cérebro para processar recursos visuais simples
+### 37 - Pessoas escaneiam a tela com base em experiências passadas e expectativas
+### 38 - As pessoas veem dicas que dizem a elas o que fazer com um objeto
+### 39 - Pessoas podem perder mudanças em seu campo de visão
+### 40 - AS pessoas acreditam que coisas que estão próximas umas das outras pertecem juntas
+### 41 - Vermelho e azul juntos são "grosseiros" ao olho
+### 42 - 9% dos homens e 0,5% das mulheres são daltônicos
+### 43 - Ler não é tão fluido quanto se parece
+### 44 - Ler e compreender são duas coisas diferentes
+### 45 - Reconhecimento de padrões ajuda pessoas a identificarem letras 
+### 46 - Se uma fonte é difícil de ser lida, as pessoas pensam que a tarefa é dificil de ser feita
+### 47 - O tamanho da fonte importa
+### 48 - Ler uma tela é mais difícil que ler um papel
+### 49 - Pessoas lêem mais rápido com um tamanho de linha mais longo, mas elas preferem um tamanho de linha mais curto
+### 50 - Memória de curto prazo é limitada
+### 51 - As pessoas apenas se lembram de 4 itens por vez
+### 52 - Pessoas precisam usar informação para fazer fixar
+### 53 - É mais fácil reconhecer uma informação do que lembrar-se dela
+### 54 - Memória exige muitos recursos mentais
 
 → [Voltar ao topo](#topo)
