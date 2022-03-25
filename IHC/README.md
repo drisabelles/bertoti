@@ -38,6 +38,8 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
 <span id = "hn1">
     
 ### 1 - Visibilidade do status do sistema 
+    
+É a forma que o sistema deve ter de estar informando ao usuário o que está acontecendo, em tempo real, por meio de feedbacks instantâneos dentro de um prazo razoável, podendo assim orientar o usuário sobre o que está acontecendo e onde no site ele está.
 
 > #### Acerto:
 
@@ -46,6 +48,8 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
 <span id = "hn2">
     
 ### 2 - Correspondência entre o sistema e o mundo real
+
+O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, portanto utilizar palavras, frases, imagens e conceitos que sejam familiares ao usuário. Se recomenda também que sejam utilizados ícones que representem uma ação para realizar essa correspondência.
     
 > #### Acerto:    
     
@@ -54,6 +58,8 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
 <span id = "hn3">
     
 ### 3 - Controle do usuário e liberdade 
+    
+É importante que o usuário tenha liberdade para executar ações que ele deseja no sistema, porém muitas vezes ações são executadas por acidente e sendo assim deve ser possível que o usuário esteja possibilitado a desfazer algo, saindo da página indesejada ou voltando ao ponto anterior.
 
 > #### Acerto:    
     
@@ -62,6 +68,8 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
 <span id = "hn4">
     
 ### 4 - Consistência e uso de padrões
+    
+Não devemos deixar o usuário em dúvida se palavras, situações ou ações diferentes tem o mesmo significado, para isso a interface deve manter uma consistência, permitindo que o usuário identifique os padrões de estética, interação e informação existentes.
 
 > #### Acerto:    
     
@@ -70,6 +78,8 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
 <span id = "hn5">
     
 ### 5 - Prevenção de erros
+    
+Essa heurística foca em criar uma plataforma que busca prevenir que problemas ocorram, eliminando condições mais propensas ao erro, isso pode ser feito sinalizando ações como quando o usuário não finalizou uma tarefa e pede para sair da página ou oferecendo a ele uma opção de confirmação antes de completar uma ação.
 
 > #### Acerto:    
     
@@ -77,7 +87,9 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
     
 <span id = "hn6">
     
-### 6 - Reconhecimento ao invés de memorização
+### 6 - Reconhecimento ao invés de recordação
+    
+Devemos minimizar a quantidade de informações que o usuário precisa memorizar, para isso, objetos, ações e opções importantes devem ficar visíveis, isso faz com que o cérebro perceba as ações que são similares, reconhecendo assim padrões.
 
 > #### Acerto:    
     
@@ -86,6 +98,8 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
 <span id = "hn7">
     
 ### 7 - Flexibilidade e eficiênia de uso
+    
+A interface deve atender tanto as necessidades dos usuários leigos quanto a dos experientes, os leigos precisam ter as informações bem detalhadas para conseguirem realizar uma tarefa, mas a medida que vão conhecendo a interface precisam conseguir interagir de forma mais rápida, portanto a interface deve permitir que os usuários adaptem ações frequentes de acordo com o nível em que estão.
 
 > #### Acerto:    
     
@@ -94,6 +108,8 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
 <span id = "hn8">   
     
 ### 8 - Estética e design minimalista
+    
+Portanto o design da interface deve ser minimalista e o conteúdo o mais direto possível, informações que forem secundárias podem ser deixadas em segundo plano, como menus e abas, já que quanto mais informações estiverem dispostas, mais confuso o usuário ficará.
 
 > #### Acerto:
 
@@ -106,6 +122,8 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
 <span id = "hn9">  
     
 ### 9 - Ajude os usuários a reconhecer, diagnosticar e recuperar erros
+    
+Caso dê algo de errado, é importante mostrar ao usuário qual foi o erro e como se recuperar dele, para isso, as mensagens de erro devem ser claras e objetivas, em linguagem simples e próximas da ação que causou o erro.
 
 > #### Acerto:    
     
@@ -114,6 +132,8 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
 <span id = "hn10">   
     
 ### 10 - Ajuda e documentação
+    
+Nunca sabemos quando um usuário vai precisar de um auxílio, embora as áreas de documentação e ajuda sejam as menos acessadas, elas devem estar lá, principalmente em interfaces que possuem muitas possibilidades, pois podem ajudar o usuário a resolver um problema sozinho.
 
 > #### Acerto:    
     
