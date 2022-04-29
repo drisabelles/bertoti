@@ -154,11 +154,14 @@ Nunca sabemos quando um usuário vai precisar de um auxílio, embora as áreas d
     
 ### 1 - Perceptível
     
-A informação e os componentes da interface de utilizador têm de ser apresentados de forma a que os utilizadores as possam percecionar. 
+A informação e os componentes da interface de utilizador têm de ser apresentados de forma a que os utilizadores as possam percecionar. Por exemplo, usuários da web podem reconhecer facilmente links ao ver textos azuis sublinhados, sem grande importência sobre o conteúdo desse texto. Enquanto isso, usuários com algum tipo de deficiência visual teriam melhor acessibilidade com textos contendo melhores informaçõe do que um simples "clique aqui".
     
 #### Acerto:    
     
-> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-A.png">
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-A.jpg">
+
+#### Erro:
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-A2.jpg">
     
 <span id = "wcag2"> 
     
