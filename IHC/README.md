@@ -222,7 +222,7 @@ O conteúdo deve ser suficientemente robusto para ser interpretado de forma fiá
 > <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D.png">
 >
 >
-> <img heigh="600px" width="600px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D2.png">
+> <img heigh="800px" width="1000px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D2.png">
 >
 > Página que se adapta ao tamanho da tela do dispositivo que está sendo acessada.
     
@@ -234,6 +234,13 @@ O conteúdo deve ser suficientemente robusto para ser interpretado de forma fiá
 
 ### 32 - O que você vê não é o que o seu cérebro percebe
 ### 33 - Visão periférica é mais usada do que a visão central para obter a essência do que você vê
+
+#### Acerto:
+
+> <img heigh="600px" width="600px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/Slide-33.png">
+>
+> Devido a visão periférica ter mais atenção, uma mensagem de erro pode "passar batido" com facilidade, sendo assim um pop-up é um bom modo de ganhar a atenção do usuário.
+    
 ### 34 - Pessoas identificam objetos através do reconhecimento de padrões
 ### 35 - Há uma parte especial do cérebro apenas pra reconhecer faces
 ### 36 - Há uma parte especial do cérebro para processar recursos visuais simples
@@ -243,6 +250,13 @@ O conteúdo deve ser suficientemente robusto para ser interpretado de forma fiá
 ### 40 - AS pessoas acreditam que coisas que estão próximas umas das outras pertecem juntas
 ### 41 - Vermelho e azul juntos são "grosseiros" ao olho
 ### 42 - 9% dos homens e 0,5% das mulheres são daltônicos
+
+#### Acerto:
+
+> <img heigh="900px" width="1100px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/Slide-42.png">
+>
+> Ferramenta que adequa as cores do site de acordo com o tipo de daltonismo que o usuário possui.
+    
 ### 43 - Ler não é tão fluido quanto se parece
 ### 44 - Ler e compreender são duas coisas diferentes
 ### 45 - Reconhecimento de padrões ajuda pessoas a identificarem letras 
