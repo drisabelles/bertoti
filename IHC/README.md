@@ -44,6 +44,8 @@ Atividade para exemplificar os erros e acertos encontrados a partir da aplicaç�
 #### Acerto:
 
 > <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-A.gif">
+>
+> Animação que mostra o nível de carregamento de um determinado ato no site e o momento de sua conclusão.
                                                                                                                                
 <span id = "hn2">
     
@@ -54,6 +56,8 @@ O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, port
 #### Acerto:
     
 > <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-B.jpg">
+>
+> Informativo do Kindle que exibe ao leitor a quantidade, em porcentagem, que ele concluiu de leitura de determinado livro.
     
 <span id = "hn3">
     
@@ -64,6 +68,8 @@ O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, port
 #### Acerto:   
     
 > <img heigh="600px" width="600px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-C.jpg">
+>
+> Interface de seleção que dá ao usuário a liberdade de selecionar a quantidade de peças desejadas e mudar essa escolha a qualquer momento que deseje antes da compra.
     
 <span id = "hn4">
     
@@ -73,7 +79,9 @@ Não devemos deixar o usuário em dúvida se palavras, situações ou ações di
 
 #### Acerto:  
     
-> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-D.png">    
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-D.png">
+>
+> Padrão de design nos botões existentes no Twitter, com desenhos simples e lógicos para melhor entendimento do usuário.
     
 <span id = "hn5">
     
@@ -84,6 +92,8 @@ Essa heurística foca em criar uma plataforma que busca prevenir que problemas o
 #### Acerto: 
     
 > <img heigh="800px" width="800px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-E.png">
+>
+> O Google mostra ao usuário intantâneamente caso ele esteja escrevendo uma palavra errada, dando a ele uma possível correção.
     
 <span id = "hn6">
     
@@ -93,7 +103,9 @@ Devemos minimizar a quantidade de informações que o usuário precisa memorizar
 
 #### Acerto:   
     
-> <img heigh="800px" width="800px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-F.png">
+> <img heigh="700px" width="900px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-F.png">
+> 
+> O Googlr fornece ao seu utilizador propostas de possíveis pesquisas que ele pode estar tentando fazer de acordo com seu histórico de pesquisas ou tópicos que têm sido popularmente pesquisados.
     
 <span id = "hn7">
     
@@ -102,7 +114,9 @@ Devemos minimizar a quantidade de informações que o usuário precisa memorizar
 A interface deve atender tanto as necessidades dos usuários leigos quanto a dos experientes, os leigos precisam ter as informações bem detalhadas para conseguirem realizar uma tarefa, mas a medida que vão conhecendo a interface precisam conseguir interagir de forma mais rápida, portanto a interface deve permitir que os usuários adaptem ações frequentes de acordo com o nível em que estão.
 #### Acerto:  
     
-> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-G.png">
+> <img heigh="700px" width="900px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-G.png">
+> 
+> São fornecidas informações de como estar executando comandos através de atalhos de teclado.
 
 <span id = "hn8">   
     
@@ -113,10 +127,14 @@ Portanto o design da interface deve ser minimalista e o conteúdo o mais direto 
 #### Acerto:
 
 > <img heigh="600px" width="600px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-H.png">
+> 
+> Site da Apple com design minimalista e objetivo, com uma paleta de cores pequena, deixando o produto em evidência juntamente com o seu valor e um botão de compra. 
 
 #### Erro:
 
 > <img heigh="600px" width="600px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-H2.png">
+>
+> Site internacional da Pinho-Sol com muitas informações de imagens, escritas e cores misturada, dificultando o foco do usuário.
     
 <span id = "hn9">  
     
@@ -127,6 +145,8 @@ Caso dê algo de errado, é importante mostrar ao usuário qual foi o erro e com
 #### Acerto:    
     
 > <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-I.png">
+> 
+> Website que replica ao usuário uma mensagem de que o nome de usuário não foi encontrado, facilitando a identificação do erro e consequentemente uma correção mais rápida.
 
 <span id = "hn10">   
     
@@ -136,7 +156,9 @@ Nunca sabemos quando um usuário vai precisar de um auxílio, embora as áreas d
 
 #### Acerto:    
     
-> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-J.jpg">
+> <img heigh="700px" width="900px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-J.jpg">
+> 
+> Interface que oferece ao usuário um FAQ onde poderá encontrar com mais facilidade uma solução para algum problema que esteja acontecendo e caso não consiga resolver poderá também entrar em contato com um suporte.
     
 → [Voltar ao topo](#topo)
 
@@ -158,7 +180,9 @@ A informação e os componentes da interface de utilizador têm de ser apresenta
     
 #### Acerto:    
     
-> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-A.jpg">
+> <img heigh="600px" width="800px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-A.png">
+>
+> Links com boa descrição de seus propósitos e sublinhados. 
 
 #### Erro:
 > <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-A2.jpg">
@@ -172,16 +196,20 @@ Os componentes da interface de utilizador e a navegação têm de ser operáveis
 #### Acerto:    
     
 > <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-B.png">
+>
+> Extensão de acessibilidade na qual é possível que um usuário com mobilidade reduzida possa utilizar o teclado para navegar no site.
     
 <span id = "wcag3">     
     
 ### 3 - Compreensível
     
-A informação e a utilização da interface de utilizador têm de ser compreensíveis.
+A informação e a utilização da interface de utilizador têm de ser compreensíveis. O site deve conter conceitos claros e objetivos, bons contrates de cores e botões com clareza de suas utilizações e destinos.
     
 #### Acerto:    
     
-> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-C.png">
+> <img heigh="700px" width="900px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-C.png">
+>
+> Página que contém bom contraste de cores, design minimalista e objetivo, contendo também botões com boas descrições, bem localizados e cores em destaque.
     
 <span id = "wcag4">     
  
@@ -192,8 +220,11 @@ O conteúdo deve ser suficientemente robusto para ser interpretado de forma fiá
 #### Acerto:    
     
 > <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D.png">
-    
-> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D2.png">
+>
+>
+> <img heigh="600px" width="600px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D2.png">
+>
+> Página que se adapta ao tamanho da tela do dispositivo que está sendo acessada.
     
 → [Voltar ao topo](#topo)
 
