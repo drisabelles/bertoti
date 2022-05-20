@@ -242,6 +242,16 @@ O conteúdo deve ser suficientemente robusto para ser interpretado de forma fiá
 > Devido a visão periférica ter mais atenção, uma mensagem de erro pode "passar batido" com facilidade, sendo assim um pop-up é um bom modo de ganhar a atenção do usuário.
     
 ### 34 - Pessoas identificam objetos através do reconhecimento de padrões
+
+O princípio de similaridade afimar que quando coisas são similares umas as outras, nós agrupamos elas. E assim nós também tendemos a pensar que elas tem a mesma função.
+    
+#### Acerto: 
+    
+> <img heigh="900px" width="1000px" src="https://github.com/drisabelles/bertoti/blob/main/IHC/images/Slide-34.png">
+>
+> GitHub usa o princípio da similaridade de duas formas na página acima. Primeiro ele usa para distinguir as diferentes seções da tela, aonde você pode entender imediatamente que a parte cinza no topo atende um propósito diferente da parte preta, que também são diferentes da parte azul. Segundo, eles também usam a cor azul para distinguir os links dos textos comuns e assim comunicam que todos textos em azul compartilham uma função em comum.
+
+Second, they also use the color blue to distinguish links from regular text and to communicate that all blue text shares a common function.
 ### 35 - Há uma parte especial do cérebro apenas pra reconhecer faces
 ### 36 - Há uma parte especial do cérebro para processar recursos visuais simples
 ### 37 - Pessoas escaneiam a tela com base em experiências passadas e expectativas
