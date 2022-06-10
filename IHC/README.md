@@ -85,7 +85,7 @@ Não devemos deixar o usuário em dúvida se palavras, situações ou ações di
 
 #### Erro:  
     
-> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-D2.png">
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-D2.jpg">
 >
 > Não há padrão de cores, palavras ou disposição de informações.
     
@@ -224,20 +224,28 @@ A informação e a utilização da interface de utilizador têm de ser compreens
 O conteúdo deve ser suficientemente robusto para ser interpretado de forma fiável por uma ampla variedade de agentes de utilizador, incluindo as tecnologias de apoio.
     
 #### Acerto:    
-    
-> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D.png">
->
+
+> Desktop:
 >
 > <img heigh="800px" width="1000px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D2.png">
+>
+>
+> Mobile: 
+>
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D.png">
 >
 > Página que se adapta ao tamanho da tela do dispositivo que está sendo acessada.
     
 #### Erro:    
     
-> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D3.png">
+> Desktop: 
+>
+> <img heigh="800px" width="1000px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D3.png">
 >
 >
-> <img heigh="800px" width="1000px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D4.png">
+> Mobile: 
+>
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D4.png">
 >
 > Página que não tem adaptação alguma para outros dispostivos se não o desktop.  
     
