@@ -82,6 +82,12 @@ Não devemos deixar o usuário em dúvida se palavras, situações ou ações di
 > <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-D.png">
 >
 > Padrão de design nos botões existentes no Twitter, com desenhos simples e lógicos para melhor entendimento do usuário.
+
+#### Erro:  
+    
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/HeuristicaNielsen-D2.png">
+>
+> Não há padrão de cores, palavras ou disposição de informações.
     
 <span id = "hn5">
     
@@ -225,6 +231,15 @@ O conteúdo deve ser suficientemente robusto para ser interpretado de forma fiá
 > <img heigh="800px" width="1000px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D2.png">
 >
 > Página que se adapta ao tamanho da tela do dispositivo que está sendo acessada.
+    
+#### Erro:    
+    
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D3.png">
+>
+>
+> <img heigh="800px" width="1000px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D4.png">
+>
+> Página que não tem adaptação alguma para outros dispostivos se não o desktop.  
     
 → [Voltar ao topo](#topo)
 
